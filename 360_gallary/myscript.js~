@@ -1,0 +1,4 @@
+function click_func()
+{
+	documnet.location.href="lab.html";
+}
